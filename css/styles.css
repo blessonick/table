@@ -1,0 +1,24 @@
+table{
+	border: 2px solid black;
+	width: 100%;
+}
+
+thead{
+	border: 2px solid black;
+	background-color: #740011;
+	color: #ffffff;
+}
+
+td{
+	border: 2px solid black;
+}
+
+th{
+	border: 2px solid black;
+}
+
+.david {
+	border: 2px solid black;
+	background-color: #77EAFF;
+	color: #000000;
+}
